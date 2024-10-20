@@ -18,6 +18,7 @@ export default function Home() {
             Get started by editing BADUNS <code>src/app/page.tsx</code>.
           </li>
           <li>Save and see your changes instantly.</li>
+          <li>The file deployed to S3 bucket.</li>
         </ol>
 
         <div className={styles.ctas}>
